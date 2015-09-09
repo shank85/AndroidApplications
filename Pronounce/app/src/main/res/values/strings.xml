@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pronounce</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="button_korean">Pronounce Korean</string>
+    <string name="button_chinese">Pronounce Chinese</string>
+    <string name="title_activity_korean">Korean</string>
+    <string name="title_activity_chinese">Chinese</string>
+</resources>
